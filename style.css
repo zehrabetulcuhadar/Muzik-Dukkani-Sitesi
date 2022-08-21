@@ -1,17 +1,22 @@
 .color-red
     {
         color: red;
-}
-.color-orng{
-    color: sandybrown;
-}
-.body{
+    }  
+.color-orng
+    {
+    color: rgb(123, 0, 255);
+    }
+.body
+    {
     background-color:#E9ECEF;
-}
-
-.pill{
+    }
+.card-title
+    {
+    color:violet;
+    }
+.pill
+    {
     background-color: grey; 
     color: white; 
     font-size: 9px;
-    
-}
+    }
